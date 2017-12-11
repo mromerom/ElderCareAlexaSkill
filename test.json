@@ -1,0 +1,45 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "SessionId.6232f02e-c6d1-4aa1-9b80-e478f0c08346",
+    "application": {
+      "applicationId": "*YOUR APP ID HERE*"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "*YOUR USER ID HERE*"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.3d3866bc-ba78-4493-bbc0-4fdb09059f52",
+    "intent": {
+      "name": "GetHealthInfoIntent",
+      "slots": {
+        "Vital": {
+          "name": "Name",
+          "value": "pulse"
+        }
+      }
+    },
+    "locale": "en-US",
+    "timestamp": "2017-11-14T16:00:23Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "*YOUR APP ID HERE*"
+      },
+      "user": {
+        "userId": "*YOUR USER ID HERE*"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}
