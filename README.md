@@ -4,7 +4,7 @@
 This was created as an independent investigation for CMP_SC 4990. The motivation to take on this project can be divided into three parts: creating a piece of software using a non-visual interface, creating a simple way for patients to access personal health information bypassing complex visual interfaces, and learning something new.
 
 ## Use of Node Modules
-In order for the various Node.js modules to work with our skill, we need to include them in a folder, and before that we need to ensure that we have Node.js installed on our machine. If we do not have it installed, we can go to [nodejs.org] (https://nodejs.org/en/) and download LTS Node.js. We then need to create a directory in which our project will exist. Once that directory is created, in our terminal we will run the following command:
+In order for the various Node.js modules to work with our skill, we need to include them in a folder, and before that we need to ensure that we have Node.js installed on our machine. If we do not have it installed, we can go to [nodejs.org](https://nodejs.org/en/) and download LTS Node.js. We then need to create a directory in which our project will exist. Once that directory is created, in our terminal we will run the following command:
 
 `npm init`
 
