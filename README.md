@@ -1,4 +1,4 @@
-# ElderCareAlexaSkill
+# ElderCare Alexa Skill
 
 ## Motivation
 This was created as an independent investigation for CMP_SC 4990. The motivation to take on this project can be divided into three parts: creating a piece of software using a non-visual interface, creating a simple way for patients to access personal health information bypassing complex visual interfaces, and learning something new.
